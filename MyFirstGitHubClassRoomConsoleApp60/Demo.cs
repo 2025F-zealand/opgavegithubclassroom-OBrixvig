@@ -8,7 +8,7 @@ namespace MyFirstGitHubClassRoomConsoleApp60
 {
     internal class Demo
     {
-        private string _demu;
+        private string _demumemmememme;
         public int Demos { get; set; }
     }
 }
